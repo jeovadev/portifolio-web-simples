@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+
+* {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: #E4F2E7;
+}
+
+body {
+    background-color: #93BFB7;
+}
+main {
+    background-image: linear-gradient(to right, #387373, #93BFB7);
+    text-align: center;
+    width: 80%;
+    max-width: 600px;
+    min-width: 350px;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #83aaa2d0;
+}
+
+h1 {
+    text-shadow: 1px 1px 1px #bdc9c0bd;
+}
+
+img {
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+iframe {
+    width: 80%;
+    max-width: 500px;
+    min-height: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 2px #0608088a;
+    border: #387373;
+    margin-bottom: 10px;
+}
